@@ -26,7 +26,6 @@ nav {
 .box {
   width: 800px;
   height: 600px;
-  background-color: blueviolet;
   margin: 50px auto;
   display: flex;
   flex-wrap: wrap;
@@ -101,9 +100,9 @@ footer {
   height: 120px;
   background-color: grey;
   text-align: center;
+  line-height: 120px;
 }
 
 .footer-text {
   color: white;
-  line-height: 120px;
 }
